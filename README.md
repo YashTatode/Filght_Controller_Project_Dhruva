@@ -23,10 +23,11 @@ This project is a rocket flight computer built using an embedded platform. It pr
 
 Filght_Controller_Project_Dhruva/
 │
-├── firmware/      # Main embedded flight computer code
-├── hardware/      # PCB design files and circuit diagrams (images/PDFs)
-├── docs/          # Datasheets and technical documentation
-└── README.md      # Project overview
+├── firmware/      # Embedded code for rocket flight computer
+├── hardware/      # PCB design, wiring diagrams, and hardware images
+├── docs/          # Datasheets, design notes, and system documentation
+└── README.md      # Project description and setup guide
+
 ---
 ## ▶️ How to Run
 1. Open firmware in Arduino IDE
