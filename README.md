@@ -18,17 +18,17 @@ This project is a rocket flight computer built using an embedded platform. It pr
 - Basic stabilization logic
 - Real-time control output
 
----
 ## 📁 Project Structure
 
-Filght_Controller_Project_Dhruva/
+```text
+Flight_Controller_Project_Dhruva/
 │
 ├── firmware/      # Embedded code for rocket flight computer
 ├── hardware/      # PCB design, wiring diagrams, and hardware images
-├── docs/          # Datasheets, design notes, and system documentation
-└── README.md      # Project description and setup guide
+├── docs/          # Datasheets and technical documentation
+└── README.md      # Project overview
+```
 
----
 ## ▶️ How to Run
 1. Open firmware in Arduino IDE
 2. Select correct board (ESP32 / Arduino)
