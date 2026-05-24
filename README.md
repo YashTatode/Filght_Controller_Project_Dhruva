@@ -35,6 +35,15 @@ Flight_Controller_Project_Dhruva/
 3. Upload code to controller
 4. Connect sensors and test
 ---
+## 📚 Documentation
+
+Datasheets and technical references used in this project:
+
+- [MPU6050 Datasheet](docs/MPU6050_Datasheet.pdf)
+- [BMP280 Datasheet](docs/BMP280_Datasheet.pdf)
+- [ESP32 Datasheet](docs/esp32_datasheet_en.pdf)
+- [ESP32 Technical Reference Manual](docs/esp32_technical_reference_manual_en.pdf)
+--- 
 
 ## 📌 Author
 Yash Tatode
